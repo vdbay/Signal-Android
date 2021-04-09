@@ -575,6 +575,7 @@
   <string name="ManageGroupActivity_mentions">メンション</string>
   <string name="ManageGroupActivity_chat_wallpaper">チャットの壁紙</string>
   <string name="ManageGroupActivity_until_s">%1$s まで</string>
+  <string name="ManageGroupActivity_always">常時</string>
   <string name="ManageGroupActivity_off">オフ</string>
   <string name="ManageGroupActivity_on">オン</string>
   <string name="ManageGroupActivity_view_all_members">すべてのメンバーを表示</string>
@@ -624,6 +625,7 @@
   <string name="ManageRecipientActivity_mute_notifications">通知をミュート</string>
   <string name="ManageRecipientActivity_custom_notifications">カスタム通知</string>
   <string name="ManageRecipientActivity_until_s">%1$sまで</string>
+  <string name="ManageRecipientActivity_always">常時</string>
   <string name="ManageRecipientActivity_off">オフ</string>
   <string name="ManageRecipientActivity_on">オン</string>
   <string name="ManageRecipientActivity_add_to_a_group">グループへ追加</string>
@@ -1546,6 +1548,9 @@
   <string name="safety_number_change_dialog__the_following_people_may_have_reinstalled_or_changed_devices">以下の方はアプリを再インストールしたか端末を変更した可能性があります。プライバシーを保証するために安全番号を検証してください。</string>
   <string name="safety_number_change_dialog__view">表示する</string>
   <string name="safety_number_change_dialog__previous_verified">以前に検証済み</string>
+  <!--EnableCallNotificationSettingsDialog__call_notifications_checklist-->
+  <string name="EnableCallNotificationSettingsDialog__call_notifications_enabled">着信通知を有効にしました。</string>
+  <string name="EnableCallNotificationSettingsDialog__settings">設定</string>
   <!--country_selection_fragment-->
   <string name="country_selection_fragment__loading_countries">国名を読み込んでいます…</string>
   <string name="country_selection_fragment__search">検索</string>
@@ -1734,10 +1739,10 @@
   <string name="arrays__use_default">既定を使う</string>
   <string name="arrays__use_custom">カスタムを使う</string>
   <string name="arrays__mute_for_one_hour">1時間ミュート</string>
-  <!-- Removed by excludeNonTranslatables <string name="arrays__mute_for_two_hours">2時間ミュート</string> -->
+  <string name="arrays__mute_for_eight_hours">8時間ミュート</string>
   <string name="arrays__mute_for_one_day">1日間ミュート</string>
   <string name="arrays__mute_for_seven_days">7日間ミュート</string>
-  <!-- Removed by excludeNonTranslatables <string name="arrays__mute_for_one_year">1年間ミュート</string> -->
+  <string name="arrays__always">常時</string>
   <string name="arrays__settings_default">既定の設定</string>
   <string name="arrays__enabled">有効</string>
   <string name="arrays__disabled">無効</string>
@@ -1788,6 +1793,7 @@
   <string name="preferences__pref_led_blink_title">LED点滅パターン</string>
   <string name="preferences__sound">着信音</string>
   <string name="preferences__silent">無音</string>
+  <string name="preferences__default">既定</string>
   <string name="preferences__repeat_alerts">アラートの繰り返し</string>
   <string name="preferences__never">なし</string>
   <string name="preferences__one_time">1回</string>
