@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="conversation_toolbar_color">@color/core_grey_95</color>
-    <color name="conversation_toolbar_color_wallpaper">@color/transparent_black_90</color>
+    <color name="conversation_toolbar_color">@color/teal_800</color>
+    <color name="conversation_toolbar_color_wallpaper">@color/teal_900</color>
 
-    <color name="signal_accent_primary">@color/core_ultramarine_light</color>
-    <color name="signal_accent_stroke_primary">@color/core_grey_95</color>
+    <color name="signal_accent_primary">@color/teal_600</color>
+    <color name="signal_accent_stroke_primary">@color/teal_900</color>
 
     <color name="signal_inverse_primary">@color/core_white</color>
 
-    <color name="signal_background_primary">@color/core_grey_95</color>
-    <color name="signal_background_secondary">@color/core_grey_75</color>
-    <color name="signal_background_tertiary">@color/core_grey_90</color>
-    <color name="signal_background_dialog">@color/core_grey_75</color>
+    <color name="signal_background_primary">@color/teal_900</color>
+    <color name="signal_background_secondary">@color/teal_700</color>
+    <color name="signal_background_tertiary">@color/teal_900</color>
+    <color name="signal_background_dialog">@color/teal_800</color>
 
     <color name="signal_text_primary">@color/core_grey_05</color>
     <color name="signal_text_primary_disabled">@color/core_grey_60</color>
